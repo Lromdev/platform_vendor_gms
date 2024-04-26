@@ -50,10 +50,8 @@ PRODUCT_PACKAGES += \
 # product/priv-app
 PRODUCT_PACKAGES += \
     AICorePrebuilt \
-    AdaptiveVPNPrebuilt \
     AiWallpapers \
     AndroidAutoStubPrebuilt \
-    AppDirectedSMSService \
     BetterBugStub \
     CarrierLocation \
     ConfigUpdater \
@@ -99,9 +97,7 @@ PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     PixelSetupWizard \
     QuickAccessWallet \
-    RilConfigService \
-    WallpaperPickerGoogleRelease \
-    grilservice
+    WallpaperPickerGoogleRelease
 
 # PrebuiltGmsCore
 PRODUCT_PACKAGES += \
